@@ -22,3 +22,6 @@ The backend includes a simple Mongoose schema to define how documents are stored
 From a user experience perspective, the app starts by displaying a loading message until the document is fully fetched from the server. Once loaded, users can begin editing. All interactions, including text formatting and typing, are captured and synchronized across all connected users. The interface is kept intentionally clean and focused to allow distraction-free writing and editing.
 In summary, this codebase demonstrates a practical and scalable implementation of a collaborative editing tool. It showcases how technologies like React, Socket.IO, and MongoDB can work together to create a real-time web application. Features like live synchronization, automatic document saving, and a rich-text editing environment make this project an excellent foundation for building more complex applications, such as team-based writing tools, code collaboration platforms, or educational note-sharing systems. Future enhancements might include authentication, role-based access control, document versioning, and integration with cloud storage providers.
 
+"OUTPUT":
+
+![Image](https://github.com/user-attachments/assets/d5a43bd2-3779-4f26-b514-60982e1d231a)
